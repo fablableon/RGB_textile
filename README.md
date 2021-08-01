@@ -7,4 +7,4 @@ En esta actividad
 
 
 
-<img src="/images/portada.png" width="200"  />
+<img src="/images/portada.png" width="400"; align="center"center  />
