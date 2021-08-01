@@ -5,4 +5,4 @@ En esta actividad
 ## Materials
 ## Tutorial
 
-![Portada](/images/portada.png "Portada")
+![Portada](/images/portada.png "Portada"){ width: 400px; }
