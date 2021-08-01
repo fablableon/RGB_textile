@@ -5,5 +5,5 @@ En esta actividad
 ## Materials
 ## Tutorial
 
-//![Portada]{ width: 400px; }(/images/portada.png "Portada")
-<img src="/images/portada.png" alt="portada" style="width:200px;"/>
+
+<img src="/images/portada.png" alt="portada" style="width:100px;"/>
