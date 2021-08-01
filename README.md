@@ -6,4 +6,5 @@ En esta actividad
 ## Tutorial
 
 
-<img src="/images/portada.png" alt="portada" style="width:100px;"/>
+
+<img src="/images/portada.png" width="100" height="100" />
